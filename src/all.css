@@ -57,6 +57,7 @@
   letter-spacing: -0.02em;
   color: transparent;
   background-clip: text;
+  -webkit-background-clip: text;
   background-image: linear-gradient(90deg, #5d5fef 50%, #ef5da8 50%);
 }
 .decktop .rengtengle .slider-next-left {
